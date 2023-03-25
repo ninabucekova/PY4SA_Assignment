@@ -1,0 +1,17 @@
+# Image files
+*.jpg
+*.tif
+elev.*
+
+# PDF files
+*.pdf
+
+# Data files
+*.csv
+SG_SIMD_2020.*
+
+# Word DOCX files
+*.docx
+
+# IPYNB Cache
+/.ipynb_checkpoints
